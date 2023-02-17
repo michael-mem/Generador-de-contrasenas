@@ -1,9 +1,9 @@
 import random
 import string
 
-print("========================")
+print("=========================")
 print("GENERADOR DE CONTRASEÑAS")
-print("========================\n")
+print("=========================\n")
 
 def generar_contrasena():
     caracter = string.ascii_lowercase + string.digits  + string.ascii_uppercase #+ string.punctuation
